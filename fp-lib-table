@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ATGM336H-5N31")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/ATGM336H-5N31")(options "")(descr ""))
+  (lib (name "CR1220 Cell")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/CR1220 Cell")(options "")(descr ""))
+  (lib (name "Quectel M66")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/Quectel M66")(options "")(descr ""))
+  (lib (name "SIM8060-6-0-14-00-A")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/SIM8060-6-0-14-00-A")(options "")(descr ""))
+  (lib (name "Type-C")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/Type-C")(options "")(descr ""))
+)
