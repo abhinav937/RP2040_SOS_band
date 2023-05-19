@@ -6,4 +6,6 @@
   (lib (name "TS24CA")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/TS24CA Tactile switch/TS24CA.kicad_sym")(options "")(descr ""))
   (lib (name "PJ9193M33SE")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/3.3V EN LDO/PJ9193M33SE.kicad_sym")(options "")(descr ""))
   (lib (name "M66")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/Quectel M66/M66.kicad_sym")(options "")(descr ""))
+  (lib (name "U.FL-R-SMT-1_10_")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/U.FL-R-SMT-1_10_/U.FL-R-SMT-1_10_.kicad_sym")(options "")(descr ""))
+  (lib (name "1462350001")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/Molex GPS antenna/1462350001.kicad_sym")(options "")(descr ""))
 )

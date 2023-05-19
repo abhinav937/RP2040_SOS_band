@@ -1,4 +1,18 @@
-21667139260606930
+21680611434247711
+10 Pin FPC
+686110183522
+
+
+0
+12
+12
+ATGM336H-5N31
+ATGM336H5N31
+ATGM336H-5N31-2
+Integrated Circuit
+0
+18
+18
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2404,6 +2418,13 @@ Buzzer_Beeper
 Speaker_CUI_CMR-1206S-67
 Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf
 speaker CUI
+0
+2
+2
+CR1220 Cell
+CH291-1220LF
+<b>Battery Holder, SMT, 12mm</b><p>multicomp PART NO. CH291-1220LF<br>Source: <a href="http://www.farnell.com/datasheets/1505860.pdf"> Data sheet </a>
+
 0
 2
 2
@@ -61032,6 +61053,13 @@ ESP8266 WiFi microcontroller
 0
 16
 16
+Molex GPS antenna
+ANT_1462350001
+
+
+0
+4
+4
 Motors
 Vybronics_VZ30C1T8219732L
 Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf
@@ -79995,6 +80023,13 @@ Potentiometer vertical Vishay T73YP
 0
 3
 3
+Quectel M66
+XCVR_M66
+
+
+0
+44
+44
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
@@ -83019,6 +83054,13 @@ rotary encoder
 0
 7
 6
+SIM8060-6-0-14-00-A
+GCT_SIM8060-6-0-14-00-A
+
+
+0
+10
+10
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -89417,6 +89459,20 @@ igbt diode module
 0
 25
 25
+Type-C
+HRO_TYPE-C-31-M-12
+
+
+0
+16
+16
+U.FL-R-SMT-1_10_
+HRS_U.FL-R-SMT-1(10)
+
+
+0
+3
+3
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
