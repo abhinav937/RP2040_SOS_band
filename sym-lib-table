@@ -8,4 +8,8 @@
   (lib (name "M66")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/Quectel M66/M66.kicad_sym")(options "")(descr ""))
   (lib (name "U.FL-R-SMT-1_10_")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/U.FL-R-SMT-1_10_/U.FL-R-SMT-1_10_.kicad_sym")(options "")(descr ""))
   (lib (name "1462350001")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/Molex GPS antenna/1462350001.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS63000DRCR")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/TPS63000DRCR/TPS63000DRCR.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS61023DRLR")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/TPS61023DRLR/TPS61023DRLR.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS7A7001DDAR")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/TPS7A7001DDAR/TPS7A7001DDAR.kicad_sym")(options "")(descr ""))
+  (lib (name "L96")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/L96 (1)/L96.kicad_sym")(options "")(descr ""))
 )

@@ -12,7 +12,7 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 2e6f74bb-681c-49d2-acf8-32965dc28494)
-    (property "Sheetname" "ATGM336H" (at 118.11 64.0584 0)
+    (property "Sheetname" "Quectel L96" (at 118.11 64.0584 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheetfile" "ATGM336H.kicad_sch" (at 118.11 79.3246 0)

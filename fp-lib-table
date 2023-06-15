@@ -9,4 +9,7 @@
   (lib (name "U.FL-R-SMT-1_10_")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/U.FL-R-SMT-1_10_")(options "")(descr ""))
   (lib (name "10 Pin FPC")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/10 Pin FPC")(options "")(descr ""))
   (lib (name "TS24CA Tactile switch")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/TS24CA Tactile switch")(options "")(descr ""))
+  (lib (name "TPS63000DRCR")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/TPS63000DRCR")(options "")(descr ""))
+  (lib (name "TPS61023DRLR")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/TPS61023DRLR")(options "")(descr ""))
+  (lib (name "L96 (1)")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/L96 (1)")(options "")(descr ""))
 )
