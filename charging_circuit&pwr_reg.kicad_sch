@@ -952,7 +952,7 @@
     (property "Reference" "Q1" (at 184.15 69.215 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "HSSN3134" (at 184.15 71.755 0)
+    (property "Value" "BSS214" (at 184.15 71.755 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70" (at 182.88 67.31 0)

@@ -12,4 +12,5 @@
   (lib (name "TPS61023DRLR")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/TPS61023DRLR/TPS61023DRLR.kicad_sym")(options "")(descr ""))
   (lib (name "TPS7A7001DDAR")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/TPS7A7001DDAR/TPS7A7001DDAR.kicad_sym")(options "")(descr ""))
   (lib (name "L96")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/L96 (1)/L96.kicad_sym")(options "")(descr ""))
+  (lib (name "NN02-201")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/NN02-201/NN02-201.kicad_sym")(options "")(descr ""))
 )
